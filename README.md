@@ -1,11 +1,11 @@
-# Hello, I'm Nathan! 👋
+# Hello, I'm Nathan! 
 
 ## About Me
 I'm a Software Developer based in Bauru. Passionate about problem-solving.
 And a lover of Italian cuisine 🍝
 
-- 🔭 I’m currently working whith  Python  Flask   C#  and  Arduino
-- 🌱  I’m currently learning about Data Science and related technologies.
+- 🔭 I’m currently working whith  Python, TypeScript, Flask, Node.js
+- 🌱  I’m currently learning about Data Science and back-end development.
 
 
 ## Connect with Me
