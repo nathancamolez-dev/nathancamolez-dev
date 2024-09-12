@@ -4,7 +4,7 @@
 I'm a Software Developer based in Bauru. Passionate about problem-solving.
 And a lover of Italian cuisine 🍝
 
-- 🔭 I’m currently working whith  Python, TypeScript, Flask, Node.js
+- 🔭 I’m currently working whith  Python, TypeScript, Flask, Node.js, React.
 - 🌱  I’m currently learning about Data Science and back-end development.
 
 
