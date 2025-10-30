@@ -1,33 +1,14 @@
-# 👋 Hello, I'm Nathan!
+# Hi 👋, I'm Nathan Alves Camolez
+Developer working with web technologies, building APIs and full-stack applications. Currently exploring backend services and system architecture.
 
-## 💡 About Me
-I'm a **Software Developer** passionate about **back-end development** and building efficient, well-structured systems.  
-I enjoy solving complex problems, learning new technologies, and turning ideas into code that makes a difference.  
-Also, I’m a big fan of Italian cuisine 🍝 and the creativity that comes with both cooking and coding!
+- 🌱 I'm currently learning **Go**
 
-- 🔭 Currently working with **Python, TypeScript, Flask, Node.js, React**, and exploring **Go** for backend services and APIs.  
-- 🌱 Learning more about **scalable API development** and **high-performance systems** using Go and Node.js.
-
----
-
-## 🧠 Skills
-- **Languages:** TypeScript, Python, Go, JavaScript  
-- **Frameworks & Tools:** Node.js, Flask, React  
-- **Databases:** PostgreSQL, MySQL  
-- **Other Interests:** REST APIs, authentication, data modeling, clean code
-
----
-
-## 🎯 Learning Goals
-- Deepen my understanding of **Go** and its ecosystem  
-- Explore even more **Next.js** for front-end development  
-- Improve **system design** and **API performance**
-
----
+- 📫 How to reach me **nathan.camolez@unesp.br**
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nathancamolez/)](https://www.linkedin.com/in/nathancamolez/)
+[!LinkedIn](https://www.linkedin.com/in/nathancamolez/)
 
 ---
 
-⭐ **“Clean code, clear logic, and continuous learning.”**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
