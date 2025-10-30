@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nathan Alves Camolez
+# Hi, I'm Nathan Camolez
 Developer working with web technologies, building APIs and full-stack applications. Currently exploring backend services and system architecture.
 
 Graduated in Information Systems from UNESP-Bauru. I enjoy solving complex problems and turning ideas into REST APIs with Node.js and Fastify, creating full-stack apps with Next.js and React, or working on machine learning.
